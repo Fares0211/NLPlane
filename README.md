@@ -1,6 +1,6 @@
 # NLPlane
 
-Ce projet consiste un chatbot NLP qui utilise la similarité cosinus pour trouver la réponse la plus appropriée à une question posée par l'utilisateur. Il est implémenté avec Streamlit pour offrir une interface utilisateur conviviale.
+Ce projet consiste un chatbot NLP (app.py) qui utilise la similarité cosinus pour trouver la réponse la plus appropriée à une question posée par l'utilisateur. Il est implémenté avec Streamlit pour offrir une interface utilisateur conviviale. Ce repository comporte également une version sans l'implémentation Streamit.
 
 ## Installation
 
